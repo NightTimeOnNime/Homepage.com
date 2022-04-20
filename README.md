@@ -1,2 +1,2 @@
-# Homepage.com
+# Homepage
 The homepage
