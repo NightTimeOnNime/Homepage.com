@@ -1,2 +1,2 @@
-# Homepage
-The homepage
+# Home page
+
